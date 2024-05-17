@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "804a",
+      "userName": "chiragvadhavana",
+      "email": "chirag1@gmail.com",
+      "password": "1234",
+      "optionCountry": "United States",
+      "terms": true,
+      "message": "i'm chirag from india"
+    },
+    {
+      "id": "f586",
+      "userName": "Harsh Patel",
+      "email": "harshpatel@gmail.com",
+      "password": "1234",
+      "optionCountry": "Thailand",
+      "message": "i'm harsh from canada",
+      "terms": true
+    },
+    {
+      "id": "34f4",
+      "userName": "Siddh",
+      "email": "siddh@gmail.com",
+      "password": "1234",
+      "optionCountry": "Thailand",
+      "message": "i'm siddh from thailand",
+      "terms": true
+    },
+    {
+      "id": "81b2",
+      "userName": "het",
+      "email": "het@gmail.com",
+      "password": "12345",
+      "optionCountry": "Germany",
+      "message": "i'm het from china",
+      "terms": true
+    },
+    {
+      "id": "81sdb2",
+      "userName": "het",
+      "email": "ritu@gmail.com",
+      "password": "12345",
+      "optionCountry": "Germany",
+      "message": "i'm het from india",
+      "terms": true
+    }
+  ]
+}
